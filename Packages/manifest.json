@@ -1,8 +1,5 @@
 {
   "dependencies": {
-    "com.unity.xr.arfoundation": "5.1.0",
-    "com.unity.xr.arcore": "5.1.0",
-    "com.unity.inputsystem": "1.6.3",
     "com.unity.textmeshpro": "3.0.6"
   }
 }
